@@ -8,9 +8,9 @@ I live in Binningen in canton Baselland in Switzerland
 
 Three of my favourite books are:
 
-- *Narrenturm* by Andrzej Sapkowski
-- *The Witcher Saga* also by Andrzej Sapkowski
-- *Master and Margareth" by Michail Bulhakov
+- **Narrenturm** by Andrzej Sapkowski
+- **The Witcher Saga** also by Andrzej Sapkowski
+- **Master and Margareth** by Michail Bulhakov
 
 ### Food
 
