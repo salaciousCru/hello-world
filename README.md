@@ -1,30 +1,25 @@
-# This is a large heading
+# Jacek Blazynski
 
-## This is a smaller heading
+### Geo
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Binningen in canton Baselland in Switzerland
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favourite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Narrenturm* by Andrzej Sapkowski
+- *The Witcher Saga* also by Andrzej Sapkowski
+- *Master and Margareth" by Michail Bulhakov
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+I'm trying my best to eat healthy and not to get bored with it. Almost vegetarian because I love animals and nature. It makes me feel more in tune. 
+Cooking is one of many food passions, amongst baking, gardening and experimenting. 
+I'll eat it as long as it did not move XD
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
 
-vim README.md
+Best way to get in touch with me is to knock on my door.
+
+`...follow the white rabbit...` 
